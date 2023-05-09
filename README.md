@@ -3,7 +3,7 @@
 This project was created to learn Python Game and public it in my website. I have learned it inorder to upgrade my programming skills. Various resource use utilized to build this project. @credits: Youtube, StackoverFlow, Google, Visual Code, Python libraries
 
 # 🔗 Setup File 
-<a href ="#" target="_blank">Download Setup File </a>
+<a href ="https://nayanbastola.com/wp-content/uploads/2023/05/2dCargame-setup.zip" target="_blank">Download Setup File </a>
 
 ### Description
 This is a 2D Car Game created using Pygame, a Python library for game development. The objective of the game is to drive a car and score points by passing red cars. As the game progresses, the speed of the cars coming from the opposite direction increases, and the game level increases based on the speed. The game also includes a retry button to restart the game from the beginning, and a music player with mute and unmute buttons.
