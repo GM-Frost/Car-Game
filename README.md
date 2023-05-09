@@ -27,12 +27,12 @@ User is able to play 2 players or can play with AI (Computer)
 
 ### ** Retry Prompt:
 
-![alt text]()
+![alt text](https://nayanbastola.com/wp-content/uploads/2023/05/2-1.png)
 
 User is able to select desired number of balls to play with (AI or Second Player)
 
 ### ** Game Screen:
 
-![alt text](https://nayanbastola.com/wp-content/uploads/2023/05/2-1.png)
+![alt text](https://nayanbastola.com/wp-content/uploads/2023/05/3-1.png)
 
 This is the Game Screen. Here user is playing with AI
