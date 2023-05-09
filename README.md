@@ -23,13 +23,13 @@ It is simple 2D Car Game made for learning purpose
 
 ![alt text](https://nayanbastola.com/wp-content/uploads/2023/05/1-1.png)
 
-User is able to play 2 players or can play with AI (Computer)
+User is able to play with Computer
 
 ### ** Retry Prompt:
 
 ![alt text](https://nayanbastola.com/wp-content/uploads/2023/05/2-1.png)
 
-User is able to select desired number of balls to play with (AI or Second Player)
+User is able to select to Replay or Cancel the Game
 
 ### ** Game Screen:
 
